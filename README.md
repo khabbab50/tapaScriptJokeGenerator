@@ -48,7 +48,7 @@ step-1:
 go to terminal and write this command to clone source code
 
 ```
-git clone
+git clone https://github.com/khabbab50/tapaScriptJokeGenerator.git
 ```
 
 step-2:
@@ -77,8 +77,8 @@ npm run dev
 
 ---
 
-source code: [github link]()
+source code: [github link](https://github.com/khabbab50/tapaScriptJokeGenerator.git)
 
 ---
 
-live project: [vercel deployment link]()
+live project: [vercel deployment link](https://tapa-script-joke-generator.vercel.app/)
